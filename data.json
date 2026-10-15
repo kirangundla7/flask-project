@@ -3,16 +3,21 @@
     {
         "id": 1,
         "name": "Kiran Gundla",
-        "email": "kiran@example.com"
+        "email": "kirang123@example.com"
     },
     {
         "id": 2,
         "name": "Rahul Goli",
-        "email": "rahul@example.com"
+        "email": "rahulgoli123@example.com"
     },
     {
         "id": 3,
-        "name": "Priya",
-        "email": "priya@example.com"
+        "name": "Priya Abcd",
+        "email": "priya_abcd@example.com"
+    },
+    {
+        "id": 4,
+        "name": "Amit",
+        "city": "Nashik"
     }
 ]
